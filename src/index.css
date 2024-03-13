@@ -1,0 +1,44 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  }
+.ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 700px;
+  color: rgb(79, 79, 226);
+}
+.number{
+  font-size: 288px;
+  color:  #F27C0F;
+  display: flex;
+  justify-content: center;
+}
+.buttonone, .buttonfirst, .buttonsecond{
+  width: 200px;
+  height: 58px;
+  border-radius: 4px;
+  font-size: 24px;
+  color: #fff;
+  border: 0;
+}
+
+.buttonone {
+  background-color:#003399;
+}
+
+.buttonfirst {
+  background-color: #F27C0F;
+}
+
+.buttonsecond {
+  background-color: #E5E5E5;
+  color: #000
+}
+
+.button{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
